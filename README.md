@@ -31,11 +31,10 @@ This dashboard helps:
 - NGOs and organizations assess future needs.
 
 ## 🖼️ Preview
-![WhatsApp Image 2025-05-09 at 19 52 42_71c15fa9](https://github.com/user-attachments/assets/2bafae47-a2a3-4f36-9a84-80a906dec28a)
+![WhatsApp Image 2025-05-09 at 19 52 33_483b6798](https://github.com/user-attachments/assets/a3fa6e13-4819-4639-b723-67f67b01e8ce)
 
-![Dashboard Screenshot 1](path-to-screenshot1.jpg)
-![Dashboard Screenshot 2](path-to-screenshot2.j![WhatsApp Image 2025-05-09 at 19 52 33_483b6798](https://github.com/user-attachments/assets/39f2b1c2-aaf4-4523-b510-50ca808cd6bc)
-pg)
+![WhatsApp Image 2025-05-09 at 19 52 42_71c15fa9](https://github.com/user-attachments/assets/f4fd085c-4f81-4e97-9e60-37e9214f8f1a)
+
 
 
 
